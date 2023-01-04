@@ -46,5 +46,5 @@ and click the OK button .
 
 7) the system should also choose the right USB (COM) port and the Upload Speed (normally 921600). At this point the connection between your PC and the ESP32 board should be established.
 
-#including the modified fabgl library by Fabrizio Di Vittorio.
+# Including the modified fabgl library by Fabrizio Di Vittorio.
 copy the file in the library to your arduino folder in Documents in windows or compress the file to (.zip) extertion and include it to arduino ide
