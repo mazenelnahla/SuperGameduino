@@ -21,10 +21,12 @@ This Game Console is made by:
 
 4.**Massa Mostafa:-**  
 > E-mail: massamostafa2001@gmail.com
-
+---------------
 # Programs Used in the project
 > Fritzing [Download](https://fritzing.org/download/)
+ 
 > Android Studio [Download](https://developer.android.com/studio?gclid=Cj0KCQiA5NSdBhDfARIsALzs2EAlj6Quvetqtclswul9n71aMF2TtcUv1U-Cebi1ctUQs-VpFrBFUhwaAhF9EALw_wcB&gclsrc=aw.ds)
+ 
 > Arduino IDE [1.18.19](https://www.arduino.cc/en/software)
 
 # Including ESP32 in Arduino IDE
