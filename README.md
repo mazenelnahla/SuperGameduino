@@ -2,7 +2,7 @@
 In our project, we collected old vintage arcade games and bring them back with some modern technologies and less cost than old consoles in the market. This game console was made using an esp 32s and an old modified version of fabgl library which allowed us to control the VGA using canvas and simple commands
 
 ![Super Gameduino Features](/Poster.png)
-This Program is made by:
+This Game Console is made by:
 ---------------
 1.**Mazen Elnahla:-**  
 > E-mail: mazen.elnahla@gmail.com  
