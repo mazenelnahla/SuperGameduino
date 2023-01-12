@@ -1,4 +1,4 @@
-# SuperGameduino
+# Super Gameduino
 In our project, we collected old vintage arcade games and bring them back with some modern technologies and less cost than old consoles in the market. This game console was made using an esp 32s and an old modified version of fabgl library which allowed us to control the VGA using canvas and simple commands.
 
 All games in this project is cloned from [Rob Cai](https://www.instructables.com/ESP32-VGA-Arcade-Games-and-Joystick/) which has been modified to work in diffrent screen and controllers also it has now wifi terminal which was also cloned from bitluni library and modified to work in fabgl canvas.
